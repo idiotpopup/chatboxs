@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="status" value="beta" />
+	<infoitem key="notes" value="12/13/04: 1.0&#xD;Added time zone time changes.&#xD;&#xD;11/10/04: beta&#xD;Modified to reflect the file additions and the added $EZChat_uptime variable.&#xD;" />
+</info>

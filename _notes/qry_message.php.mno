@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="status" value="final" />
+	<infoitem key="notes" value="2/3/05: 1.0&#xD;Changed the timezone calculation to use mktime, more accurate than previous.&#xD;Added the new smileys and tweaked.&#xD;&#xD;12/13/04: 1.0&#xD;Added the timezone change calculation.&#xD;Added the max string length to be configurable.&#xD;Added new smiley code.&#xD;&#xD;11/10/04: beta&#xD;Added the refresh variable for config" />
+</info>
